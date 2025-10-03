@@ -7,4 +7,3 @@
 - **目标**：为 Windows 用户提供开箱即用的 DeepSpeed 预编译包
 - **适用**：Python 3.12
 - **非官方**：本项目仅提供预编译包，DeepSpeed 本身由 Microsoft 维护
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)

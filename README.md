@@ -5,5 +5,5 @@
 ## 🔍 项目说明
 
 - **目标**：为 Windows 用户提供开箱即用的 DeepSpeed 预编译包
-- **适用**：Python 3.12
+- **编译环境**：Python 3.12 Torch2.8+CU128
 - **非官方**：本项目仅提供预编译包，DeepSpeed 本身由 Microsoft 维护
